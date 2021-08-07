@@ -1,0 +1,8 @@
+GUI designed with Qt Designer Version 5.12
+https://www.qt.io/
+
+Code Written By Tristan Day
+https://github.com/TROFER
+
+Window Icon Made By fjstudio on
+https://www.flaticon.com/
