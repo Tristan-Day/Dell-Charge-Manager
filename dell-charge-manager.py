@@ -31,7 +31,7 @@ class Window(QtWidgets.QWidget, windows.Main):
             self.sudo_elevator = "kdesu -t -c"
 
         elif elevator == "gksu":
-            self.sudo_elevator = "gksu"
+            self.sudo_elevator = "gksu" ### Used as prefix to cctk command (Make sure terminal output is enabled)
 
         else:
             error_window = windows.Error(
